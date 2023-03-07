@@ -1,2 +1,2 @@
 # css-odev1
-css kısmındaki ilk ödev
+css kullanımını geliştirme ödevi
